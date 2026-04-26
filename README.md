@@ -5,7 +5,7 @@ An interactive web-based Tic-Tac-Toe laboratory designed to demonstrate the effi
 ## 📝 Problem Description
 The project addresses the challenge of building an optimal AI opponent for a deterministic game (Tic-Tac-Toe). A standard Minimax approach explores every possible future state to determine the best move, which can be computationally expensive as game complexity grows. The goal is to compare this "Brute Force" approach with an optimized version ("Alpha-Beta Pruning") to visualize the reduction in search space (nodes explored) and execution time.
 
-## 🧠 Algorithms Used
+
 
 ### 1. Minimax Algorithm
 Minimax is a backtracking algorithm used in decision making and game theory. It provides an optimal move for the AI by:
