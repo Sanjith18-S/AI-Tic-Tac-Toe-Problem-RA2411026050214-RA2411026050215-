@@ -1,0 +1,6 @@
+{
+  "name": "Tic-Tac-Toe AI Lab",
+  "description": "An interactive Tic-Tac-Toe game comparing Minimax and Alpha-Beta Pruning algorithms with real-time performance metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
